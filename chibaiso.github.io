@@ -1,2 +1,0 @@
-# chibaiso
-web development
